@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Twitter](https://twitter.com/roman01la)
+[@roman01la](https://twitter.com/roman01la)
 
 #### Areas of expertise
 - ClojureScript
