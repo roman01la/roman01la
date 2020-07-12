@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**roman01la/roman01la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Twitter](https://twitter.com/roman01la)
 
-Here are some ideas to get you started:
+#### Areas of expertise
+- ClojureScript
+- React.js
+- Front-end performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Publications
+- [Understanding Transducers in JavaScript](https://dev.to/romanliutikov/understanding-transducers-in-javascript-4pdg)
+- [Recursive Data Structures and Lazy Evaluation](https://dev.to/romanliutikov/recursive-data-structures-and-lazy-evaluation-16e0)
+- [Parsing DSLs with predicates](https://dev.to/romanliutikov/parsing-dsls-with-predicates-14hi)
+- [ClojureScript REPL Workflow](https://dev.to/romanliutikov/clojurescript-repl-workflow-427a)
