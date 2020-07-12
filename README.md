@@ -7,6 +7,11 @@
 - React.js
 - Front-end performance
 
+#### Currently maintained projects
+- [UIx](https://github.com/roman01la/uix) — Idiomatic ClojureScript interface to modern React.js
+- [Rum](https://github.com/tonsky/rum) — Simple, decomplected, isomorphic HTML UI library for Clojure and ClojureScript
+- [html-to-react-components](https://github.com/roman01la/html-to-react-components) — Converts HTML pages into React components
+
 #### Publications
 - [Understanding Transducers in JavaScript](https://dev.to/romanliutikov/understanding-transducers-in-javascript-4pdg)
 - [Recursive Data Structures and Lazy Evaluation](https://dev.to/romanliutikov/recursive-data-structures-and-lazy-evaluation-16e0)
