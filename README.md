@@ -9,3 +9,8 @@ _If you like what I do, consider supporting my work by donating via GitHub Spons
 <a href="https://www.buymeacoffee.com/romanliutikov">
 <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" width="180" />
 </a>
+
+<p>
+<img crossorigin="anonymous" src="https://github-readme-stats.vercel.app/api?username=roman01la&show_icons=true&count_private=true&include_all_commits=true&hide_title=false" />
+<img crossorigin="anonymous" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman01la&layout=compact&hide_title=false&card_width=445" />
+</p>
