@@ -1,7 +1,3 @@
-Hey 👋 I'm software engineer, doing web UIs with JavaScript and Clojure.
-
-Currently working on [UIx, React wrapper in ClojureScript](https://github.com/pitch-io/uix), [PS1-style retro 3D editor](https://github.com/roman01la/ps1ender), [internet controlled RC car](https://github.com/roman01la/tether-rally) and many other projects. Checkout my blog where I share technical stuff https://romanliutikov.com/blog/
-
 [Twitter](https://twitter.com/roman01la)
 
 <a href="https://www.buymeacoffee.com/romanliutikov">
